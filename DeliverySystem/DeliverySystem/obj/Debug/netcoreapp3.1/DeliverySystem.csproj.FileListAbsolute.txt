@@ -1,0 +1,13 @@
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\bin\Debug\netcoreapp3.1\DeliverySystem.exe
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\bin\Debug\netcoreapp3.1\DeliverySystem.deps.json
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\bin\Debug\netcoreapp3.1\DeliverySystem.runtimeconfig.json
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\bin\Debug\netcoreapp3.1\DeliverySystem.runtimeconfig.dev.json
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\bin\Debug\netcoreapp3.1\DeliverySystem.dll
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\bin\Debug\netcoreapp3.1\DeliverySystem.pdb
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\obj\Debug\netcoreapp3.1\DeliverySystem.csprojAssemblyReference.cache
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\obj\Debug\netcoreapp3.1\DeliverySystem.AssemblyInfoInputs.cache
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\obj\Debug\netcoreapp3.1\DeliverySystem.AssemblyInfo.cs
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\obj\Debug\netcoreapp3.1\DeliverySystem.csproj.CoreCompileInputs.cache
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\obj\Debug\netcoreapp3.1\DeliverySystem.dll
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\obj\Debug\netcoreapp3.1\DeliverySystem.pdb
+E:\C#\Git\ic3_wallow_come5\DeliverySystem\DeliverySystem\obj\Debug\netcoreapp3.1\DeliverySystem.genruntimeconfig.cache
