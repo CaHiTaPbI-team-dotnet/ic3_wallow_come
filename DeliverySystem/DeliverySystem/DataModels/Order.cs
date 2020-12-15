@@ -12,6 +12,8 @@ namespace DeliverySystem.DataModels
         public int ID { get; set; }
         [DataMember]
         public List<Product> products { get; set; } = new List<Product>();
+        [DataMember]
+        public string BuyerFName { get; set; }
         
     }
 }
