@@ -9,6 +9,7 @@ namespace DeliverySystem.Repositories
     [DataContract]
     class Company
     {
+        [DataMember]
         public List<Employee> employees { get; set; } = new List<Employee>();
 
         public void Display()
