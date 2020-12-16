@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\greyi\\.nuget\\packages\\": {},
+    "G:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Git\\ic3_wallow_come5\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
+      "projectUniqueName": "C:\\Users\\greyi\\OneDrive\\Рабочий стол\\cODE\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
       "projectName": "DeliverySystem",
-      "projectPath": "E:\\C#\\Git\\ic3_wallow_come5\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Git\\ic3_wallow_come5\\DeliverySystem\\DeliverySystem\\obj\\",
+      "projectPath": "C:\\Users\\greyi\\OneDrive\\Рабочий стол\\cODE\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
+      "packagesPath": "C:\\Users\\greyi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\greyi\\OneDrive\\Рабочий стол\\cODE\\DeliverySystem\\DeliverySystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "G:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\greyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -37,6 +37,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -48,6 +49,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
