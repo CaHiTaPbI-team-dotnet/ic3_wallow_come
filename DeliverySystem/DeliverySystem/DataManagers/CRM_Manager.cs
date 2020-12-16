@@ -41,6 +41,12 @@ namespace DeliverySystem.DataManagers
                 new Client {ID = 2, Name = "Billy", Surnname = "Herrington", Phonenumber = "+8877553535", Icq = "1421325", Telegram = "@billy"},
                 new Client {ID = 3, Name = "Van", Surnname = "Darkholme", Phonenumber = "+8866653535", Icq = "3231387", Telegram = "@van"},
             });
+            cRM.orders.AddRange(new Order[]
+            {
+                new Order { ID = 1, BuyerFName = "Rikardo", products = new List<Product>{
+                    new Product { ID = 10, Name = "HAMBURGER", Price = 10, Producer = "McDonalds"},
+                }
+            }}) ; 
         }
 
         public void Display()
