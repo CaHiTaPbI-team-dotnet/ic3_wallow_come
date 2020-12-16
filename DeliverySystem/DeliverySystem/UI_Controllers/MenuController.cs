@@ -6,9 +6,5 @@ namespace DeliverySystem.UI_Controllers
 {
     class MenuController
     {
-        public void DisplayMenu()
-        {
-            Console.WriteLine("menu displayed");
-        }
     }
 }

@@ -8,20 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ZerAtul\\.nuget\\packages\\": {}
+    "C:\\Users\\greyi\\.nuget\\packages\\": {},
+    "G:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\new\\github\\Lesson_103(C#)\\ic3_wallow_come5\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
+      "projectUniqueName": "C:\\Users\\greyi\\OneDrive\\Рабочий стол\\cODE\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
       "projectName": "DeliverySystem",
-      "projectPath": "D:\\new\\github\\Lesson_103(C#)\\ic3_wallow_come5\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
-      "packagesPath": "C:\\Users\\ZerAtul\\.nuget\\packages\\",
-      "outputPath": "D:\\new\\github\\Lesson_103(C#)\\ic3_wallow_come5\\DeliverySystem\\DeliverySystem\\obj\\",
+      "projectPath": "C:\\Users\\greyi\\OneDrive\\Рабочий стол\\cODE\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
+      "packagesPath": "C:\\Users\\greyi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\greyi\\OneDrive\\Рабочий стол\\cODE\\DeliverySystem\\DeliverySystem\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "G:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ZerAtul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\greyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
